@@ -368,7 +368,6 @@ void editorUpdateSyntax(erow *row) {
 
 int editorSyntaxToColor(int hl) {
   switch (hl) {
-    case HL_COMMENT:
     case HL_MLCOMMENT: return 36;
     case HL_COMMENT: return 36;
     case HL_KEYWORD1: return 33;
