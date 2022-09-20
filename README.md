@@ -61,6 +61,26 @@ Keys:
 ```
 
 
+## Steps executed
+
+- Entering Raw Mode
+- Raw input and output
+- A text viewer
+- A text Editor
+- Search
+- Syntax highlighting
+
+
+
+## #Todo
+
+- Line Numbers - To display the line number to the left of each line of the file.
+- Auto indent - When starting a new line, indent it to the same level as the previous line.
+- Multiple Buffers - To allow having multiple files open at once, and have some way of switching between them.
+
+
+
+
 ## Authors
 
 - [Sathvik Achanta](https://www.github.com/sathvik-lab)
