@@ -43,9 +43,33 @@ Linux:
 ```bash
   sudo apt-get install gcc make
 ```
+
+
+## Usage
+
+To run this project, you will need the linux or setup your environment as mentioned above.
+
+Usage: `kilo <filename>`
+
+Keys:
     
+```
+    CTRL-S: Save
+    CTRL-Q: Quit
+    CTRL-F: Find string in file (ESC to exit search, arrows to navigate)
+
+```
+
+
+## Authors
+
+- [Sathvik Achanta](https://www.github.com/sathvik-lab)
+- [antirez](https://github.com/antirez/kilo)
+
+
+
     
-    
+
 
 
 
